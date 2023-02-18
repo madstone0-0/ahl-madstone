@@ -1,0 +1,5 @@
+*.csv
+*.db
+**/main.py
+*.pyc
+.idea/*
